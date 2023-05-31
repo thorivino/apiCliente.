@@ -9,4 +9,4 @@ funciones
 * Crear Usuarios
 * Borrar usuarios
 
-![Alumnos CBTis](https://cbtis169.net/media/admonRH-480.jpg)
+![Alumnos CBTis](https://cbtis169.net/media/Programacion-min.jpg)
